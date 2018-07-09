@@ -1,0 +1,5 @@
+flask==0.11.1
+pprint==0.1
+requests==2.13.0
+pymongo==3.4
+requests_toolbelt==0.8.0
